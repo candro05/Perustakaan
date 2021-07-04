@@ -42,8 +42,6 @@ INSTALLED_APPS = [
     'djoser',
     'Perustakaan',
     'Buku',
-    'Jenis_Buku',
-    'Ketegori_Buku',
 ]
 
 MIDDLEWARE = [
